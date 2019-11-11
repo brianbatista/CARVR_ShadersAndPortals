@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PortalWithRoom_AREnabled.unity
     guid: 09e2f58be9faa49ebacc7a63aceb1509
+  - enabled: 0
+    path: Assets/Scenes/PortalWithRoom_NoAR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HackDuke.unity
+    guid: 3aa208708b6c943479b53f1cfe100b1c
   m_configObjects: {}

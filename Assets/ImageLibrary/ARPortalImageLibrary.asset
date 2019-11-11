@@ -21,7 +21,37 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 14157083546098501777
       m_GuidHigh: 9785606886054858635
-    m_Size: {x: 0.2, y: 0.4137681}
+    m_Size: {x: 0.1, y: 0.20688406}
     m_SpecifySize: 1
     m_Name: door-hd-png-download-this-image-as-600
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5593214608425969727
+      m_GuidHigh: 8623941572170886582
+    m_SerializedTextureGuid:
+      m_GuidLow: 1511414482875960801
+      m_GuidHigh: 8778435805047392632
+    m_Size: {x: 0.1, y: 0.13069172}
+    m_SpecifySize: 1
+    m_Name: CaptainDavidBirrell
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4687228749625497187
+      m_GuidHigh: 1505123932516305287
+    m_SerializedTextureGuid:
+      m_GuidLow: 9517136533901318147
+      m_GuidHigh: 4835476190977877483
+    m_Size: {x: 0.1, y: 0.10005244}
+    m_SpecifySize: 1
+    m_Name: Sitterson_001
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4650815860804662886
+      m_GuidHigh: 1486508421071521718
+    m_SerializedTextureGuid:
+      m_GuidLow: 8380108712884627171
+      m_GuidHigh: 4555940211501393114
+    m_Size: {x: 0.1, y: 0.15387663}
+    m_SpecifySize: 1
+    m_Name: Sitterson_002
     m_Texture: {fileID: 0}
