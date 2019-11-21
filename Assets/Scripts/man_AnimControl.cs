@@ -11,12 +11,8 @@ public class man_AnimControl : MonoBehaviour
         _anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void manMove()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            _anim.SetTrigger("Beckon");
-        }
+        _anim.SetTrigger("Beckon");
     }
 }

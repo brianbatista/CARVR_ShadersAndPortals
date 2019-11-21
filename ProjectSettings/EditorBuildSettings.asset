@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PortalWithRoom_NoAR.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HackDuke.unity
     guid: 3aa208708b6c943479b53f1cfe100b1c
+  - enabled: 1
+    path: Assets/Scenes/PortalWithRoom_AREnabled_v2.unity
+    guid: 1f3df85af22d84f5287c3e3215c18b6b
   m_configObjects: {}

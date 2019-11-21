@@ -16,16 +16,6 @@ MonoBehaviour:
   m_GuidHigh: 14282070435115997361
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4920582950469730803
-      m_GuidHigh: 15239822952248467865
-    m_SerializedTextureGuid:
-      m_GuidLow: 14157083546098501777
-      m_GuidHigh: 9785606886054858635
-    m_Size: {x: 0.1, y: 0.20688406}
-    m_SpecifySize: 1
-    m_Name: door-hd-png-download-this-image-as-600
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
       m_GuidLow: 5593214608425969727
       m_GuidHigh: 8623941572170886582
     m_SerializedTextureGuid:
@@ -36,22 +26,12 @@ MonoBehaviour:
     m_Name: CaptainDavidBirrell
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4687228749625497187
-      m_GuidHigh: 1505123932516305287
+      m_GuidLow: 5220967543884027870
+      m_GuidHigh: 6345394468238157216
     m_SerializedTextureGuid:
-      m_GuidLow: 9517136533901318147
-      m_GuidHigh: 4835476190977877483
-    m_Size: {x: 0.1, y: 0.10005244}
+      m_GuidLow: 2642116033164157563
+      m_GuidHigh: 5725849621532040570
+    m_Size: {x: 0.1, y: 0.12329737}
     m_SpecifySize: 1
-    m_Name: Sitterson_001
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 4650815860804662886
-      m_GuidHigh: 1486508421071521718
-    m_SerializedTextureGuid:
-      m_GuidLow: 8380108712884627171
-      m_GuidHigh: 4555940211501393114
-    m_Size: {x: 0.1, y: 0.15387663}
-    m_SpecifySize: 1
-    m_Name: Sitterson_002
+    m_Name: JamesWatt
     m_Texture: {fileID: 0}
