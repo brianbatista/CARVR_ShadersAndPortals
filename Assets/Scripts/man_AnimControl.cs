@@ -13,6 +13,10 @@ public class man_AnimControl : MonoBehaviour
 
     public void manMove()
     {
-        _anim.SetTrigger("Beckon");
+        if(_anim.GetBool("BeckonBool") == false)
+        {
+            _anim.SetTrigger("Beckon");
+            _anim.SetBool("BeckonBool", true);    
+        }
     }
 }
